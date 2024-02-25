@@ -1,0 +1,23 @@
+img{
+    height: auto;
+    width: 500px;
+}
+
+.ingredients {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: brown;
+}
+
+.steps {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: chocolate;
+}
+
+#desc {
+    font-weight: 500;
+    text-align: justify;
+}

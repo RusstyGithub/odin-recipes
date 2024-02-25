@@ -1,0 +1,17 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    font-weight: bold;
+}
+
+.recipes{
+    font-size: 24px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.recipes .pic{
+    height: auto;
+    width: 400px;
+}
